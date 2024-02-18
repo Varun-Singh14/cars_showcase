@@ -34,19 +34,29 @@ Car Showcase is a web application developed using NEXT.js and React.js that prov
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Install dependencies using the package manager of your choice (npm or yarn):
-npm install
+3. Install dependencies using the package manager of your choice:
 
-or 
+   - Using npm:
+     ```
+     npm install
+     ```
 
-yarn install
+   - Using yarn:
+     ```
+     yarn install
+     ```
 
 4. Run the development server:
-npm run dev
 
-or
+   - Using npm:
+     ```
+     npm run dev
+     ```
 
-yarn dev
+   - Using yarn:
+     ```
+     yarn dev
+     ```
 
 5. Open your web browser and access the application at [http://localhost:3000](http://localhost:3000).
 
